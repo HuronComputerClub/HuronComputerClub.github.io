@@ -6,10 +6,13 @@
 
 .navbar{
 	margin:auto;
-	background-color:#348005;
+	background-color:darkgreen;
 }
 .navdata{
 	padding:10px 83px;
+}
+.navdata>a{
+	color:gold;
 }
 
 
